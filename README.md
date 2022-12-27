@@ -1,1 +1,3 @@
-cis 120 final project - java and java swing for graphics 
+## 2048
+
+CIS 120 final project using Java and Java Swing for graphics 
